@@ -19,7 +19,7 @@ import base64
 
 # Assuming urls.db is in your app root folder
 app = Flask(__name__)
-host = 'http://localhost:5000/'
+host = 'http://3.91.231.226:5000/'
 
 
 def table_check():
